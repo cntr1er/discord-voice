@@ -17,7 +17,8 @@ if you wish to use the bot in the background of your pc without any command prom
 
 ## How do you close it?
 1. if you are running the program with a command prompt you can just easily exit out of it
-2. If you are using it without any command prompt you can close out of it in the taskbar by right clicking the blue icon and clicking "EXIT". ![taskbar](https://imgur.com/giLv5Ok)
+2. If you are using it without any command prompt you can close out of it in the taskbar by right clicking the blue icon and clicking "EXIT". ![image](https://github.com/user-attachments/assets/a2a89d81-451d-4f3f-9b91-ba216b63354d)
+
 
 # Errors
 1. "Improper token has been passed" this usually means that the token you got was wrong. follow this tutorial https://www.youtube.com/watch?v=LnBnm_tZlyU
